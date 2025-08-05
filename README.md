@@ -19,4 +19,9 @@ This Power BI dashboard presents a detailed analysis of a manufacturing plant's 
 - `manufacturing.pbix`: Power BI report file
 - Dashboard screenshot: `MANUFACTURING ANALYSIS IMG.png`
 
+📬 Contact
+🔗 Connect With Me [ SAMADHAN AHIRE ]
+ LINKDIN :- [ https://www.linkedin.com/in/samadhan-ahire-946592364/ ]
+ GITHUB :- [ https://github.com/SAMADHAN909 ]
+Email: [samadhan0325@gmail.com]
 # -manufacturing-plant-s
